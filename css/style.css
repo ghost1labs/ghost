@@ -1,0 +1,9 @@
+@media only screen and (min-width: 625px) {
+  /* Add the width property for the desired element */
+  #yourElement {
+    width: 600px; /* Replace this with the desired width */
+  }
+}
+body {
+  background-color: var(--bs-gray-400) !important;
+}
